@@ -1,0 +1,7 @@
+./client/node_modules
+./client/npm-debug.log
+./client/.vscode
+
+./server/node_modules
+./server/npm-debug.log
+./server/.vscode
